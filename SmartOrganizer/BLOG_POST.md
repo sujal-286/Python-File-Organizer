@@ -39,7 +39,11 @@ Using Kiro (my AI pair programmer) made this process incredibly fast.
 2.  **Boilerplate**: It generated the initial `config.json` with common extensions so I didn't have to type them all out.
 3.  **Error Handling**: Kiro suggested adding the duplicate file handling logic, which saved me from potential data loss.
 
+<img width="1919" height="830" alt="image" src="https://github.com/user-attachments/assets/91a98893-f5c8-4744-b898-d953f7c7b5fa" />
+<img width="1011" height="457" alt="image" src="https://github.com/user-attachments/assets/f4e31078-bde7-41a9-a67c-224f4dbf7d8b" />
+
+
+
 ## Conclusion
 Now, whenever my Desktop gets messy, I just run `python organizer.py`, and everything is tidy again. Automation for the win!
 
-[Link to GitHub Repository]
